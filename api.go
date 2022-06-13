@@ -11,5 +11,6 @@ package gopack
 import "github.com/dingqinghui/gopack/sum"
 
 func Sum(a, b int) int {
+
 	return sum.Sum(a, b)
 }
